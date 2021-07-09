@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #E83E8C;
+}
+
+.nav-custom-px-5 {
+    height: 75px;
+    margin-left: 10%;
+    margin-right: 10%;
+    /*se usa padding si no quiero arruinar el background*/
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.bg {
+    background-color: #E83E8C !important;
+}
+
+footer {
+    background-color: #E83E8C;
+    display: block;
+}
+.pago {
+    background-color: #17A2B8;
+    color: white;
+}
+.pago ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding-left: 0rem !important;
+}
+
+.pago li {
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style-type: none;
+}
+
+footer img {
+    width: 60px;
+    height: auto;
+}

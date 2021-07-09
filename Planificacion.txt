@@ -1,0 +1,53 @@
+
+
+
+Planificacion:
+
+1. navbar dark
+	logo izquierda
+	texto derecha
+2. row
+   2 col
+   8col
+      row
+	col-6 (imagen)
+	col-6 (texto)
+		titulo/h1
+		<hr>
+		<p>
+		botones -> tooltips
+   2 col
+3. 2. row
+   2 col
+   8col
+      row
+	 col carousel -> 8 imagenes/4 slides por vista
+   2 col
+
+4. row
+   2 col
+   8col
+      row
+	 col-6 ingredientes
+		titulo
+		ul con li
+	 col-6 preparacion
+		ol con li
+	 hr
+   2 col
+
+5. 2. row
+   2 col
+   8col
+      row
+	tarjetas ->		
+   2col
+
+6. row
+	col
+	  titulo
+	  parrafo
+	  boton
+7. row
+	col
+	  imagen
